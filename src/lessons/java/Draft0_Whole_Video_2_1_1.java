@@ -31,3 +31,7 @@ public class Draft0_Whole_Video_2_1_1 {
         duck.say();
     }
 }
+
+interface Operation {
+    void calculate(int a, int b);
+}
