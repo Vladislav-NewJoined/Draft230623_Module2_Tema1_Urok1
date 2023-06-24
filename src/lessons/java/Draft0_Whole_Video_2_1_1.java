@@ -3,7 +3,7 @@ package lessons.java;
 interface Animal {
     void say();
 }
-public class Draft1_Task2_1_1 {
+public class Draft0_Whole_Video_2_1_1 {
     static int catSayCounter = 0;
     public static void main(String[] args) {
         Animal cat = new Animal() {
